@@ -1,3 +1,2 @@
 mas contenido para el file
-otro contenido y nuevo texto
-nueva linea hello
+nueva linea y otro contenido hello
